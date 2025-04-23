@@ -1,4 +1,4 @@
-# Jupyter Notebook Project in VS Code
+# Dirty Cafe Jupyter Notebook Project in VS Code
 
 This README provides instructions for setting up and running a Jupyter Notebook project in Visual Studio Code (VS Code).
 
