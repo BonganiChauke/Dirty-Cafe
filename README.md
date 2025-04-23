@@ -29,7 +29,7 @@ This README provides instructions for setting up and running a Jupyter Notebook 
 ## Project Setup
 
 1. **Clone the Repository**
-   - If the project is stored in a Git repository, clone it to your local machine:
+   - Clone it to your local machine:
      ```bash
      git clone <repository_url>
      ```
@@ -39,11 +39,18 @@ This README provides instructions for setting up and running a Jupyter Notebook 
      ```
 
 2. **Install Required Libraries**
-   - Check if the project includes a `requirements.txt` file.
+   - Open cmd in your comptuer or in vs code open the terminal in vs code windows `Ctrl+Shift+'`  or mac `Ctrl+'`
    - Install the required Python libraries:
      ```bash
-     pip install -r requirements.txt
+     pip install pandas
+     pip install seaborn
+     pip install stats
      ```
+3. ** Download The project
+   - Download the project from [GitHub]()
+   - Click the `Code` button, then select `Download ZIP` to download the project as a ZIP file.
+   - Extract the contents of the ZIP file to a directory of your choice you can use any extraction tool.
+   - Download and install [WinRar](https://www.win-rar.com/predownload.html?&L=0) to extract the zip folder.
 
 ---
 
