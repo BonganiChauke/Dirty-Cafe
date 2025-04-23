@@ -29,13 +29,13 @@ This README provides instructions for setting up and running a Jupyter Notebook 
 ## Project Setup
 
 1. **Clone the Repository**
-   - Clone it to your local machine:
+   - Clone it to your local machine: using Git Bash if installed 
      ```bash
-     git clone <repository_url>
+     git clone <https://github.com/BonganiChauke/Dirty-Cafe.git>
      ```
    - Navigate to the project directory:
      ```bash
-     cd <project_directory>
+     cd <Dirty-Cafe>
      ```
 
 2. **Install Required Libraries**
